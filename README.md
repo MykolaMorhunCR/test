@@ -22,9 +22,9 @@
  
     - [As User I can access crop menu for imported file from cloud service](#SPIOS-0208-As-User-I-can-access-crop-menu-for-imported-file-from-cloud-service)
  
-    - [As user I can open 'Text' screen, where I can create my own document](#SPIOS-0209-As-user-I-can-open-Text-screen,-where-I-can-create-my-own-document)
+    - [As user I can open 'Text' screen, where I can create my own document](#SPIOS-0209-As-user-I-can-open-Text-screen-where-I-can-create-my-own-document)
  
-    - [As User I can create text, using 'Text' screen](#SPIOS-0210-As-User-I-can-create-text,-using-Text-screen)
+    - [As User I can create text, using 'Text' screen](#SPIOS-0210-As-User-I-can-create-text-using-Text-screen)
     
  - [Epic 03. Library](#Epic-03-Library)
  
@@ -32,9 +32,9 @@
  
     - [As User I can Create Folder inside my library](#SPIOS-0302-As-User-I-can-Create-Folder-inside-my-library)
  
-    - [As User I can sort items, that can be included inside new folder](#SPIOS-0303-As-User-I-can-sort-items,-that-can-be-included-inside-new-folder)
+    - [As User I can sort items, that can be included inside new folder](#SPIOS-0303-As-User-I-can-sort-items-that-can-be-included-inside-new-folder)
  
-    - [As User I can access Items' menu](#SPIOS-0304-As-User-I-can-access-Items'-menu)
+    - [As User I can access Items' menu](#SPIOS-0304-As-User-I-can-access-Items-menu)
  
     - [As User I can Delete Books/Articles/Texts/Folders I added before](#SPIOS-0305-As-User-I-can-Delete-Books/Articles/Texts/Folders-I-added-before)
  
@@ -50,7 +50,7 @@
  
     - [As User I can change speed of listening](#SPIOS-0404-As-User-I-can-change-speed-of-listening)
  
-    - [As User I can navigate through text via tapping on word, I would like to start listening from](#SPIOS-0405-As-User-I-can-navigate-through-text-via-tapping-on-word,-I-would-like-to-start-listening-from)
+    - [As User I can navigate through text via tapping on word, I would like to start listening from](#SPIOS-0405-As-User-I-can-navigate-through-text-via-tapping-on-word-I-would-like-to-start-listening-from)
  
     - [As User I can open listening settings settings](#SPIOS-0406-As-User-I-can-open-listening-settings)
  
@@ -64,7 +64,7 @@
 
     - [As User I can Listen to text when App is in Background Mode](#SPIOS-0411-As-User-I-can-Listen-to-text-when-App-is-in-Background-Mode)
 
-    - [As User I can use block in Navigation bar, when App is in background mode](#SPIOS-0412-As-User-I-can-use-block-in-Navigation-bar,-when-App-is-in-background-mode)
+    - [As User I can use block in Navigation bar, when App is in background mode](#SPIOS-0412-As-User-I-can-use-block-in-Navigation-bar-when-App-is-in-background-mode)
 
 - [Epic 05. Edit text](#Epic-05-Edit-text)
 
@@ -72,7 +72,7 @@
 
 - [Epic 06. Home & Settings](#Epic-06-Home-&-Settings)
 
-    - [As User I can continue listening from 'home' screen](#SPIOS-0601-As-User-I-can-continue-listening-from-'home'-screen)
+    - [As User I can continue listening from 'home' screen](#SPIOS-0601-As-User-I-can-continue-listening-from-home-screen)
 
     - [As User I can see list of recently added files](#SPIOS-0602-As-User-I-can-see-list-of-recently-added-files)
 
@@ -86,19 +86,19 @@
 
 - [Epic 07. Scan](#Epic-07-Scan)
 
-    - [As User I can take Photo of Text, so that I will be able to listen to it](#SPIOS-0701-As-User-I-can-take-Photo-of-Text,-so-that-I-will-be-able-to-listen-to-it)
+    - [As User I can take Photo of Text, so that I will be able to listen to it](#SPIOS-0701-As-User-I-can-take-Photo-of-Text-so-that-I-will-be-able-to-listen-to-it)
 
-    - [As User I can upload image from storage, so that I will be able to listen to it](#SPIOS-0702-As-User-I-can-upload-image-from-storage,-so-that-I-will-be-able-to-listen-to-it) 
+    - [As User I can upload image from storage, so that I will be able to listen to it](#SPIOS-0702-As-User-I-can-upload-image-from-storage-so-that-I-will-be-able-to-listen-to-it) 
 
 - [Epic 08. Subscriptions](#Epic-08-Subscriptions)
 
     - [General info](#General-info)
 
-    - [As User I can Subscribe, so I will get access to premium functionality](#As-User-I-can-Subscribe,-so-I-will-get-access-to-premium-functionality)
+    - [As User I can Subscribe, so I will get access to premium functionality](#As-User-I-can-Subscribe-so-I-will-get-access-to-premium-functionality)
 
     - [As User I can Change my subscription Plan](#As-User-I-can-Change-my-subscription-Plan)
 
-    - [As User i can contact Speechify, if i want > 1000000 HD words per month](#As-User-i-can-contact-Speechify,-if-i-want->-1000000-HD-words-per-month)
+    - [As User i can contact Speechify, if i want > 1000000 HD words per month](#As-User-i-can-contact-Speechify-if-i-want->-1000000-HD-words-per-month)
 
 - [General Functionality](#GENERAL-FUNCTIONALITY)
 
@@ -374,7 +374,7 @@ No accounts added bofore case
 
 # SPIOS 0208. As User I can access crop menu for imported file from cloud service
  ### Steps: 
-  - Import file from any cloud-service ( For E.G. [Google Drive](#SPIOS-0201.-As-User-I-can-Import-files-from-Google-Drive))
+  - Import file from any cloud-service ( For E.G. [Google Drive](#SPIOS-0201-As-User-I-can-Import-files-from-Google-Drive))
  - Press 'Crop File' Button before adding item to library 
  - [Crop](Link to crop task) file 
  - Press 'Create' button
@@ -387,11 +387,11 @@ No accounts added bofore case
  ### Steps: 
  - Open 'Text' Screen 
   Expected result: Screen with such options appear : 
- - [Document title](#SPIOS-0210.-As-User-I-can-create-text,-using-'Text'-screen) field*
+ - [Document title](#SPIOS-0210-As-User-I-can-create-text-using-Text-screen) field*
  - [Text]() field 
  - [Listen]() button 
- - [Paste](#SPIOS-0210.-As-User-I-can-create-text,-using-'Text'-screen) button*
- - [Add To Library](#SPIOS-0210.-As-User-I-can-create-text,-using-'Text'-screen) button*
+ - [Paste](#SPIOS-0210-As-User-I-can-create-text-using-Text-screen) button*
+ - [Add To Library](#SPIOS-0210-As-User-I-can-create-text-using-Text-screen) button*
  ### Acceptance Criteria 
  - User can open Text screen, all core* features can be accessed and are working properly
  
@@ -438,9 +438,9 @@ No accounts added bofore case
 # SPIOS 0302. As User I can Create Folder inside my library  
 ### Steps:
  - Launch App
- - Open [Library](#SPIOS-0301.-As-User-I-can-see-list-of-items-I-added-before-so-that-I-am-able-to-listen-to-all-of-them)
+ - Open [Library](#SPIOS-0301-As-User-I-can-see-list-of-items-I-added-before-so-that-I-am-able-to-listen-to-all-of-them)
  - Tap on 'Create folder' icon
- - [Sort](#SPIOS-0303.-As-User-I-can-sort-items,-that-can-be-included-inside-new-folder) items, that can be included 
+ - [Sort](#SPIOS-0303-As-User-I-can-sort-items-that-can-be-included-inside-new-folder) items, that can be included 
  
   | Action| Expected result |
 | ------ | ------ |
@@ -460,7 +460,7 @@ No accounts added bofore case
 # SPIOS 0303. As User I can sort items, that can be included inside new folder 
 ### Steps:
  - Launch App
- - Open [Library](#SPIOS-0301.-As-User-I-can-see-list-of-items-I-added-before-so-that-I-am-able-to-listen-to-all-of-them)
+ - Open [Library](#SPIOS-0301-As-User-I-can-see-list-of-items-I-added-before-so-that-I-am-able-to-listen-to-all-of-them)
  - Tap on 'Create folder' icon
  
   | Action| Expected result |
@@ -478,14 +478,15 @@ No accounts added bofore case
 # SPIOS 0304. As User I can access Items' menu
 ### Steps:
  - Launch App
- - Open [Library](#SPIOS-0301.-As-User-I-can-see-list-of-items-I-added-before-so-that-I-am-able-to-listen-to-all-of-them)
+ - Open [Library](#SPIOS-0301-As-User-I-can-see-list-of-items-I-added-before-so-that-I-am-able-to-listen-to-all-of-them)
  - Tap on three dots icon near any Item 
  Expected result: Menu with such options appear : 
 - [Share]()
  - [Rename]()
  - [Move to Folder]()
  - [Add Files (Only for folders)]()
-- [Add Cover Photo (Only for items, that can be listened to)]()      - -[Delete](#SPIOS-0305.-As-User-I-can-Delete-Books/Articles/Texts/Folders-I-added-before)
+- [Add Cover Photo (Only for items, that can be listened to)]()      
+-[Delete](#SPIOS-0305-As-User-I-can-Delete-Books/Articles/Texts/Folders-I-added-before)
  ### Acceptance Criteria 
  - User can access file/folder menu
  - All options are avaliable 
@@ -496,14 +497,14 @@ No accounts added bofore case
 ### Steps:
  Flow №1
  - Launch App
- - Open [Library](#SPIOS-0301.-As-User-I-can-see-list-of-items-I-added-before-so-that-I-am-able-to-listen-to-all-of-them)
+ - Open [Library](#SPIOS-0301-As-User-I-can-see-list-of-items-I-added-before-so-that-I-am-able-to-listen-to-all-of-them)
  - Tap on three dots icon near any Item 
  - Choose Delete 
  Expected result: Appropriate item deleted from library, it still can be accessed and restored or permanently deleted from [Deleted Files]() menu 
 
 Flow №2
  - Launch App
- - Open [Library](#SPIOS-0301.-As-User-I-can-see-list-of-items-I-added-before-so-that-I-am-able-to-listen-to-all-of-them)
+ - Open [Library](#SPIOS-0301-As-User-I-can-see-list-of-items-I-added-before-so-that-I-am-able-to-listen-to-all-of-them)
  - Swipe left on item you want to delete
  - Click 'Delete' button
  Expected result: Appropriate item deleted from library, it still can be accessed and restored or permanently deleted from
@@ -516,7 +517,7 @@ Flow №2
 
 ### Steps:
  - Launch App
- - Open [Library](#SPIOS-0301.-As-User-I-can-see-list-of-items-I-added-before-so-that-I-am-able-to-listen-to-all-of-them)
+ - Open [Library](#SPIOS-0301-As-User-I-can-see-list-of-items-I-added-before-so-that-I-am-able-to-listen-to-all-of-them)
  - Press on 'options' icon 
  
   | Action| Expected result |
@@ -539,7 +540,7 @@ Flow №2
 
 ### Steps:
  - Launch App
- - Open [Library](#SPIOS-0301.-As-User-I-can-see-list-of-items-I-added-before-so-that-I-am-able-to-listen-to-all-of-them)
+ - Open [Library](#SPIOS-0301-As-User-I-can-see-list-of-items-I-added-before-so-that-I-am-able-to-listen-to-all-of-them)
  - Tap on item to listen to 
  
  Expected result: Listening started, appropriate text is highlighted 
@@ -551,7 +552,7 @@ Flow №2
 # SPIOS 0402. As User I can Pause and Continue listening via Pause/Play button 
 
 ### Steps:
- - Start [Listening](#SPIOS-0401.-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
+ - Start [Listening](#SPIOS-0401-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
  
  | Action| Expected result |
 | ------ | ------ |
@@ -567,7 +568,7 @@ Flow №2
 # SPIOS 0403. As User I can Skip n seconds Forward/Backwards via Pressing Skip buttons
 
 ### Steps:
- - Start [Listening](#SPIOS-0401.-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
+ - Start [Listening](#SPIOS-0401-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
  
 | Action| Expected result |
 | ------ | ------ |
@@ -581,7 +582,7 @@ Flow №2
 
 # SPIOS 0404. As User I can change speed of listening
 ### Steps:
- - Start [Listening](#SPIOS-0401.-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
+ - Start [Listening](#SPIOS-0401-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
  - Press 'Speed' button
  
 | Action| Expected result |
@@ -599,7 +600,7 @@ Flow №2
 
 # SPIOS 0405. As User I can navigate through text via tapping on word, I would like to start listening from 
 ### Steps:
- - Start [Listening](#SPIOS-0401.-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
+ - Start [Listening](#SPIOS-0401-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
  - Tap on any word in text you are listening
  Expected result: Listening continues from appropriate word, appropriate word is highlighted
 
@@ -611,11 +612,11 @@ Flow №2
 
 # SPIOS 0406. As User I can open listening settings 
 ### Steps:
- - Start [Listening](#SPIOS-0401.-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
+ - Start [Listening](#SPIOS-0401-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
  - Press '3-dots' icon 
  Expected result: Menu with such options appear : 
-  - [Change Voice](#SPIOS-0408.-As-User-I-can-change-voice-of-listening) or [Language](#SPIOS-0408.-As-User-I-can-select-Language-to-translate-to)
-  - Display & [Text Size](#SPIOS-0407.-As-User-I-can-Change-Font-Size)
+  - [Change Voice](#SPIOS-0408-As-User-I-can-change-voice-of-listening) or [Language](#SPIOS-0408.-As-User-I-can-select-Language-to-translate-to)
+  - Display & [Text Size](#SPIOS-0407-As-User-I-can-Change-Font-Size)
   - [Edit Text]()
   - [Copy Text]()
   - [Show Single Word]() (exclusive for text-based files)
@@ -630,8 +631,8 @@ Flow №2
 
 # SPIOS 0407. As User I can Change Font Size 
  ### Steps: 
- - Start [Listening](#SPIOS-0401.-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
- - Open [Listening Settings](#SPIOS-0406.-As-User-I-can-open-listening-settings)
+ - Start [Listening](#SPIOS-0401-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
+ - Open [Listening Settings](#SPIOS-0406-As-User-I-can-open-listening-settings)
  - Click on 'Display & Text Size' button
  
  | Action| Expected result |
@@ -646,8 +647,8 @@ Flow №2
 
 # SPIOS 0408. As User I can change voice of listening
  ### Steps: 
- - Start [Listening](#SPIOS-0401.-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
- - Open [Listening Settings](#SPIOS-0406.-As-User-I-can-open-listening-settings)
+ - Start [Listening](#SPIOS-0401-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
+ - Open [Listening Settings](#SPIOS-0406-As-User-I-can-open-listening-settings)
  - Click on 'Change Voice or Language' button
  
  User is not subscribed case 
@@ -676,8 +677,8 @@ User is already subscrubed case
 
 # SPIOS 0408. As User I can select Language to translate to 
  ### Steps: 
- - Start [Listening](#SPIOS-0401.-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
- - Open [Listening Settings](#SPIOS-0406.-As-User-I-can-open-listening-settings) OR click 'voice' icon 
+ - Start [Listening](#SPIOS-0401-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
+ - Open [Listening Settings](#SPIOS-0406-As-User-I-can-open-listening-settings) OR click 'voice' icon 
  - Click on 'Change Voice or Language' button
  - Tap on name of language on top bar
  - Choose language to translate your text to 
@@ -692,7 +693,7 @@ User is already subscrubed case
   
 # SPIOS 0409. As User I can continue listening from same point I stopped before 
   ### Steps: 
- - Start [Listening](#SPIOS-0401.-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
+ - Start [Listening](#SPIOS-0401-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
   ### Acceptance Criteria 
 - After ANY actions, except from reinstalling an app and permanently deleting book user can continue listening from same point he stopped before
 
@@ -700,7 +701,7 @@ User is already subscrubed case
 
 # SPIOS 0410. As User I can Listen to text when App is in Background Mode 
 ### Steps: 
- - Start [Listening](#SPIOS-0401.-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
+ - Start [Listening](#SPIOS-0401-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
  - Put App in background mode 
  Expected result: Listening continues 
 
@@ -712,7 +713,7 @@ User is already subscrubed case
 
 # SPIOS 0411. As User I can use block in Navigation bar, when App is in background mode
   ### Steps: 
- - Start [Listening](#SPIOS-0401.-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
+ - Start [Listening](#SPIOS-0401-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
  - Put App in background mode 
  - Open Navbar 
  Block with such items appear : 
@@ -745,8 +746,8 @@ User is already subscrubed case
 
 # SPIOS 0501. As User I As User I can Edit text
  ### Steps: 
- - Start [Listening](#SPIOS-0401.-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
- - Open [Listening Settings](#SPIOS-0406.-As-User-I-can-open-listening-settings)
+ - Start [Listening](#SPIOS-0401-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
+ - Open [Listening Settings](#SPIOS-0406-As-User-I-can-open-listening-settings)
  - Click on 'Edit Text' button
  
  | Action| Expected result |
@@ -827,7 +828,7 @@ Some book is being listened to
 
 # SPIOS 0604. As User I can Sign In/Up Via Email + Password 
  ### Steps: 
- - Open [Settings](#SPIOS-0603.-As-User-I-can-access-settings-screen)
+ - Open [Settings](#SPIOS-0603-As-User-I-can-access-settings-screen)
  - Open Sign In/Sign Up menu
  - Click on 'Enter with Email' button
 
@@ -855,7 +856,7 @@ User doesn't exist
 
  # SPIOS 0605. As User I can Sign In/Up Via Google
  ### Steps: 
- - Open [Settings](#SPIOS-0603.-As-User-I-can-access-settings-screen)
+ - Open [Settings](#SPIOS-0603-As-User-I-can-access-settings-screen)
  - Open Sign In/Sign Up menu
  - Click on 'Enter with Google' button
  
@@ -887,7 +888,7 @@ User has google account/s connected to phone
 
  # SPIOS 0606. As User I can set default listening voice
  ### Steps: 
- - Open [Settings](#SPIOS-0603.-As-User-I-can-access-settings-screen)
+ - Open [Settings](#SPIOS-0603-As-User-I-can-access-settings-screen)
  - Open Listening Preferences menu
  - Choose Default Listening Voice 
  
