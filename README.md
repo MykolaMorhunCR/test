@@ -38,7 +38,7 @@
  
     - [As User I can Delete Books/Articles/Texts/Folders I added before](#SPIOS-0305-As-User-I-can-Delete-BooksArticlesTextsFolders-I-added-before)
  
-    - [As User I can access Sort & View menu](#SPIOS-0306-As-User-I-can-access-Sort-&-View-menu)
+    - [As User I can access Sort & View menu](#SPIOS-0306-As-User-I-can-access-Sort--View-menu)
     
  - [ Epic 04. Listening](#Epic-04-Listening)
  
@@ -70,7 +70,7 @@
 
     - [As User I As User I can Edit text](#SPIOS-0501-As-User-I-As-User-I-can-Edit-text)
 
-- [Epic 06. Home & Settings](#Epic-06-Home-&-Settings)
+- [Epic 06. Home & Settings](#Epic-06-Home--Settings)
 
     - [As User I can continue listening from 'home' screen](#SPIOS-0601-As-User-I-can-continue-listening-from-home-screen)
 
@@ -78,9 +78,9 @@
 
     - [As User I can access settings screen](#SPIOS-0603-As-User-I-can-access-settings-screen)
 
-    - [As User I can Sign In/Up Via Email + Password](#SPIOS-0604-As-User-I-can-Sign-InUp-Via-Email-+-Password)
+    - [As User I can Sign In/Up Via Email + Password](#SPIOS-0604-As-User-I-can-Sign-InUp-Via-Email--Password)
 
-    -  [As User I can Sign In/Up Via Google](#SPIOS-0605-As-User-I-can-Sign-In/Up-Via-Google)
+    -  [As User I can Sign In/Up Via Google](#SPIOS-0605-As-User-I-can-Sign-InUp-Via-Google)
 
     -  [As User I can set default listening voice](#SPIOS-0606-As-User-I-can-set-default-listening-voice)
 
@@ -98,7 +98,7 @@
 
     - [As User I can Change my subscription Plan](#As-User-I-can-Change-my-subscription-Plan)
 
-    - [As User i can contact Speechify, if i want > 1000000 HD words per month](#As-User-i-can-contact-Speechify-if-i-want->-1000000-HD-words-per-month)
+    - [As User i can contact Speechify, if i want > 1000000 HD words per month](#As-User-i-can-contact-Speechify-if-i-want--1000000-HD-words-per-month)
 
 - [General Functionality](#GENERAL-FUNCTIONALITY)
 
