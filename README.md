@@ -16,9 +16,9 @@
  
     - [As user I can import files from Pocket](#SPIOS-0205-As-user-I-can-import-files-from-Pocket)
  
-    - [As user I can import articles from browsers using share function (Safari)](#SPIOS-0206-As-user-I-can-import-articles-from-browsers-using-share-function-(Safari))
+    - [As user I can import articles from browsers using share function (Safari)](#SPIOS-0206-As-user-I-can-import-articles-from-browsers-using-share-function-Safari)
  
-    - [As user I can import text from third-party applications (notes / other notes-taking app)](#SPIOS-0207-As-user-I-can-import-text-from-third-party-applications-(notes-/-other-notes-taking-app))
+    - [As user I can import text from third-party applications (notes / other notes-taking app)](#SPIOS-0207-As-user-I-can-import-text-from-third-party-applications-notes--other-notes-taking-app)
  
     - [As User I can access crop menu for imported file from cloud service](#SPIOS-0208-As-User-I-can-access-crop-menu-for-imported-file-from-cloud-service)
  
@@ -36,7 +36,7 @@
  
     - [As User I can access Items' menu](#SPIOS-0304-As-User-I-can-access-Items-menu)
  
-    - [As User I can Delete Books/Articles/Texts/Folders I added before](#SPIOS-0305-As-User-I-can-Delete-Books/Articles/Texts/Folders-I-added-before)
+    - [As User I can Delete Books/Articles/Texts/Folders I added before](#SPIOS-0305-As-User-I-can-Delete-BooksArticlesTextsFolders-I-added-before)
  
     - [As User I can access Sort & View menu](#SPIOS-0306-As-User-I-can-access-Sort-&-View-menu)
     
@@ -44,9 +44,9 @@
  
     - [As User I can Listen to  items I Added to Library before](#SPIOS-0401-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
  
-    - [As User I can Pause and Continue listening via Pause/Play button](#SPIOS-0402-As-User-I-can-Pause-and-Continue-listening-via-Pause/Play-button)
+    - [As User I can Pause and Continue listening via Pause/Play button](#SPIOS-0402-As-User-I-can-Pause-and-Continue-listening-via-PausePlay-button)
  
-    - [As User I can Skip n seconds Forward/Backwards via Pressing Skip buttons](#SPIOS-0403-As-User-I-can-Skip-n-seconds-Forward/Backwards-via-Pressing-Skip-buttons)
+    - [As User I can Skip n seconds Forward/Backwards via Pressing Skip buttons](#SPIOS-0403-As-User-I-can-Skip-n-seconds-ForwardBackwards-via-Pressing-Skip-buttons)
  
     - [As User I can change speed of listening](#SPIOS-0404-As-User-I-can-change-speed-of-listening)
  
@@ -78,7 +78,7 @@
 
     - [As User I can access settings screen](#SPIOS-0603-As-User-I-can-access-settings-screen)
 
-    - [As User I can Sign In/Up Via Email + Password](#SPIOS-0604-As-User-I-can-Sign-In/Up-Via-Email-+-Password)
+    - [As User I can Sign In/Up Via Email + Password](#SPIOS-0604-As-User-I-can-Sign-InUp-Via-Email-+-Password)
 
     -  [As User I can Sign In/Up Via Google](#SPIOS-0605-As-User-I-can-Sign-In/Up-Via-Google)
 
