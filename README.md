@@ -296,7 +296,7 @@ User has google account/s connected to phone
 | Press 'Recents'  | User redirrected to iCloud screen with recent files |
   - Choose any of supported files 
   [Supported File Formats](##supported-file-formats)
-  - Crop (Optional) [Link to crop task]
+  - Crop (Optional) 
   - Add to library
   ### Acceptance Criteria 
  - All supported format files can be imported and listened after it 
@@ -323,7 +323,7 @@ No accounts added bofore case
 | Press 'Allow'| User redirrected to custom Pocket drive screen, user remembered  |
  - Choose any of supported files
  [Supported File Formats](##supported-file-formats)
- - Crop (Optional) [Link to crop task]
+ - Crop (Optional) 
   - Add to library
 
   ### Acceptance Criteria 
@@ -376,10 +376,10 @@ No accounts added bofore case
  ### Steps: 
   - Import file from any cloud-service ( For E.G. [Google Drive](#SPIOS-0201-As-User-I-can-Import-files-from-Google-Drive))
  - Press 'Crop File' Button before adding item to library 
- - [Crop](Link to crop task) file 
+ - Crop file 
  - Press 'Create' button
  ### Acceptance Criteria 
- - User can open crop menu, [crop](Link-to-crop-task) file according to his preferences and add cropped file to library
+ - User can open crop menu, crop file according to his preferences and add cropped file to library
  
  -------------------------------
 
@@ -388,8 +388,8 @@ No accounts added bofore case
  - Open 'Text' Screen 
   Expected result: Screen with such options appear : 
  - [Document title](#SPIOS-0210-As-User-I-can-create-text-using-Text-screen) field*
- - [Text]() field 
- - [Listen]() button 
+ - Text field 
+ - Listen button 
  - [Paste](#SPIOS-0210-As-User-I-can-create-text-using-Text-screen) button*
  - [Add To Library](#SPIOS-0210-As-User-I-can-create-text-using-Text-screen) button*
  ### Acceptance Criteria 
@@ -481,11 +481,11 @@ No accounts added bofore case
  - Open [Library](#SPIOS-0301-As-User-I-can-see-list-of-items-I-added-before-so-that-I-am-able-to-listen-to-all-of-them)
  - Tap on three dots icon near any Item 
  Expected result: Menu with such options appear : 
-- [Share]()
- - [Rename]()
- - [Move to Folder]()
- - [Add Files (Only for folders)]()
-- [Add Cover Photo (Only for items, that can be listened to)]()      
+- Share
+ - Rename
+ - Move to Folder
+ - Add Files (Only for folders)
+- Add Cover Photo (Only for items, that can be listened to)      
 -[Delete](#SPIOS-0305-As-User-I-can-Delete-Books/Articles/Texts/Folders-I-added-before)
  ### Acceptance Criteria 
  - User can access file/folder menu
@@ -500,7 +500,7 @@ No accounts added bofore case
  - Open [Library](#SPIOS-0301-As-User-I-can-see-list-of-items-I-added-before-so-that-I-am-able-to-listen-to-all-of-them)
  - Tap on three dots icon near any Item 
  - Choose Delete 
- Expected result: Appropriate item deleted from library, it still can be accessed and restored or permanently deleted from [Deleted Files]() menu 
+ Expected result: Appropriate item deleted from library, it still can be accessed and restored or permanently deleted from 'Deleted Files' menu 
 
 Flow №2
  - Launch App
@@ -617,12 +617,12 @@ Flow №2
  Expected result: Menu with such options appear : 
   - [Change Voice](#SPIOS-0408-As-User-I-can-change-voice-of-listening) or [Language](#SPIOS-0408.-As-User-I-can-select-Language-to-translate-to)
   - Display & [Text Size](#SPIOS-0407-As-User-I-can-Change-Font-Size)
-  - [Edit Text]()
-  - [Copy Text]()
-  - [Show Single Word]() (exclusive for text-based files)
-  - [Show Original file]() (exclusive for scan based PDFs and ePubs)
-  - [Report Problem]()
-  - [Delete]()
+  - Edit Text
+  - Copy Text
+  - Show Single Word (exclusive for text-based files)
+  - Show Original file (exclusive for scan based PDFs and ePubs)
+  - Report Problem
+  - Delete
   ### Acceptance Criteria 
  - User can open Listening settings
  - All buttons are avaliable and lead to proper settings
@@ -805,21 +805,21 @@ Some book is being listened to
  - Open 'Home' screen
  - Press 'settings' icon 
  Expected result: Settings screen with such options appear: 
- - [Sign Up/Sign In]()*
- - [Speechify Premium]()*
- - [Share Speechify]()
- - [Helpus grow. Review Speechify]()
- - [Message Us (Help + Feedback)]()
- - [Report aan Issue]()
- - [Listening Preferences]()
- - [Siri Shortcuts]()
- - [How to import from Safari]()
- - [Comperhencion Test]()
- - [Onboarding Speechify]()
- - [Deleted Items]()
- - [Restore Library]()
- - [Sign Out]() (Avaliable only if user is signed in)
- - [Profile]() (Avaliable only if user is signed in)
+ - Sign Up/Sign In*
+ - Speechify Premium*
+ - Share Speechify
+ - Helpus grow. Review Speechify
+ - Message Us (Help + Feedback)
+ - Report aan Issue
+ - Listening Preferences
+ - Siri Shortcuts
+ - How to import from Safari
+ - Comperhencion Test
+ - Onboarding Speechify
+ - Deleted Items
+ - Restore Library
+ - Sign Out (Avaliable only if user is signed in)
+ - Profile (Avaliable only if user is signed in)
   ### Acceptance Criteria 
  - User can open settings screen 
  - User can access all core* settings
