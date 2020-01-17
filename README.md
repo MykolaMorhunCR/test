@@ -188,15 +188,16 @@ User has google account/s connected to phone
   - Open 'Import' screen
   - Choose 'Dropbox'
   
-User already has Dropbox account connected to Speechify
+User already has Dropbox account connected to Speechify:
 
 | Action| Expected result |
 | ------ | ------ |
 | Choose Dropbox | User redirrected to custom drive screen |
 
-  User doesn't have Dropbox App installed, doesn't have account connected case
 
-| Action| Expected result |
+User doesn't have Dropbox App installed, doesn't have account connected case:
+
+| Action | Expected result |
 | ------ | ------ |
 | Choose Dropbox | Dropbox 'Sign In' screen in InApp browser appears |
 | Press 'Done' | Screen closed, user returned to import screen |
@@ -204,15 +205,17 @@ User already has Dropbox account connected to Speechify
 | User press 'Cancel' | InApp Browser closed, User returned to import screen |
 | User press 'Allow' | InApp Browser closed, user redirrected to custom dropbox screen, user remembered |
 
-User doesn't have Dropbox App installed, has account connected case
-  | Action| Expected result |
+User doesn't have Dropbox App installed, has account connected case:
+
+| Action| Expected result |
 | ------ | ------ |
 | Choose Dropbox | Permission screen opens |
 | Press 'Done' | Screen closed, user returned to import screen |
 | User press 'Cancel' | InApp Browser closed, User returned to import screen |
 | User press 'Allow' | InApp Browser closed, user redirrected to custom dropbox screen, user remembered |
 
-User  has Dropbox App installed, doesn't have account connected case
+User  has Dropbox App installed, doesn't have account connected case:
+
 | Action| Expected result |
 | ------ | ------ |
 | Choose Dropbox | Permission to open 'Dropbox' pop-up appears |
@@ -222,7 +225,7 @@ User  has Dropbox App installed, doesn't have account connected case
 | User press 'Cancel' | User returned to import screen |
 | User press 'Allow' | User redirrected to custom dropbox screen, user remembered |
 
-User  has Dropbox App installed, has account connected case
+User  has Dropbox App installed, has account connected case:
 
 | Action| Expected result |
 | ------ | ------ |
@@ -247,14 +250,14 @@ User  has Dropbox App installed, has account connected case
   - Open 'Import screen'
   - Choose 'OneDrive'
   
-User already has OneDrive account connected to Speechify
+User already has OneDrive account connected to Speechify:
 
   | Action| Expected result |
 | ------ | ------ |
 | Choose OneDrive | User redirrected to custom drive screen |
 
 
-No accounts added before case
+No accounts added before case:
 
   | Action| Expected result |
 | ------ | ------ |
@@ -265,7 +268,7 @@ No accounts added before case
 | User Enter valid account data| InApp Browser closed, user redirrected to custom drive screen, user remembered   |
 | User Enter invalid account data | User got error message |
 
-User has google account/s connected to phone 
+User has google account/s connected to phone:
 
  | Action| Expected result |
 | ------ | ------ |
@@ -309,7 +312,7 @@ User has google account/s connected to phone
   - Open 'Import' screen
   - Choose 'Pocket'
   
-No accounts added bofore case
+No accounts added bofore case:
 
   | Action| Expected result |
 | ------ | ------ |
@@ -355,12 +358,11 @@ No accounts added bofore case
 
 # SPIOS 0207. As user I can import text from third-party applications (notes / other notes-taking app)
 ### Steps:
- - Open any note-taking app 
- - Press Share button on the note, you want to import
- - Choose Speechify (If not used before it is in 'more' list)
+ - Open any note-taking app;
+ - Press Share button on the note, you want to import;
+ - Choose Speechify (If not used before it is in 'more' list);
  
-
-   | Action| Expected result |
+| Action | Expected result |
 | ------ | ------ |
 | User press cross button | Import cancelled, no text added to library, user returned to browser |
 | User chooses folder to import in | Appropriate folder is marked(further selected as default, untill user makes changes) |
@@ -651,8 +653,9 @@ Flow №2
  - Open [Listening Settings](#SPIOS-0406-As-User-I-can-open-listening-settings)
  - Click on 'Change Voice or Language' button
  
- User is not subscribed case 
- | Action| Expected result |
+ User is not subscribed case:
+ 
+ | Action | Expected result |
 | ------ | ------ |
 | User choose from Default Non-HD Voices| Phrase 'Hi, would you like to use me as your voice' is played (using chosen voice) 'Save changes' button appear    |
 | User click 'Save changes' button| Voice is set  |
@@ -661,9 +664,9 @@ Flow №2
 | User click on background ascreen| pop-up closed  |
 | User click on 'Ok' button| pop-up closed, subscription screen opens |
 
-User is already subscrubed case 
+User is already subscrubed case:
 
- | Action| Expected result |
+ | Action | Expected result |
 | ------ | ------ |
 | User choose from Default Non-HD Voices| Phrase 'Hi, would you like to use me as your voice' is played (using chosen voice) 'Save changes' button appear    |
 | User click 'Save changes' button| Voice is set  |
@@ -724,7 +727,7 @@ User is already subscrubed case
  - Name and cover photo of the book you are listening to 
  - Stream icon 
  
- | Action| Expected result |
+ | Action | Expected result |
 | ------ | ------ |
 | User press Pause | Listening Paused |
 | User press Play | Listening continues from where it stopped |
@@ -781,14 +784,16 @@ N.B. This block appears if user has added some files before to his library
  - Open 'Home' screen
  
  No book is being listened to case
- | Action| Expected result |
+ 
+ | Action | Expected result |
 | ------ | ------ |
 | Open Home screen | Recently added files block is on top, top 3 recently added files are shown, 'show 3 more' button is Avaliable |
 | User click on any of shown books | User is redirrected to listening screen of the book, he clicked on; Listening start from the beginning of the book |
 | User click ''show 3 more' button| 3 more recently added books are shown|
 
 Some book is being listened to 
- | Action| Expected result |
+
+ | Action | Expected result |
 | ------ | ------ |
 | Open Home screen | Recently added files block is below 'Continue listening' block, top 3 recently added files are shown, 'show 3 more' button is Avaliable |
 | User click on any of shown books | User is redirrected to listening screen of the book, he clicked on; Listening start from the beginning of the book |
@@ -909,7 +914,8 @@ User has google account/s connected to phone
  - Open 'Scan' screen
  
 First launch case 
- | Action| Expected result |
+
+ | Action | Expected result |
 | ------ | ------ |
 | Open 'Scan' screen | 'Speechify would like to access your camera' pop-up appears |
 | Click 'Don't Allow'| pop-up closed, permission is not given, user can't take photos untill he gives it |
@@ -917,7 +923,7 @@ First launch case
 
 No permissions given before case 
 
- | Action| Expected result |
+ | Action | Expected result |
 | ------ | ------ |
 | Open 'Scan' screen | 'Camera unavaliable' pop-up appears  |
 | Click 'Cancel'| pop-up closed, permission is not given, user can't take photos untill he gives it |
@@ -928,7 +934,7 @@ User gave permissions
 
 - Open 'Scan' screen
 
- | Action| Expected result |
+ | Action | Expected result |
 | ------ | ------ |
 | Press on photo button | Photo is taken  |
 | Click Forward | User redirected to preview screen |
@@ -943,8 +949,9 @@ User gave permissions
  ### Steps: 
  - Open 'Scan' screen
  
-First launch case 
- | Action| Expected result |
+First launch case:
+
+ | Action | Expected result |
 | ------ | ------ |
 | Press 'image' icon| 'Speechify would like to access your Photos' pop-up appears |
 | User click 'Ok' button| pop-up closed, permission is given, user can upload photos,  |
@@ -953,7 +960,7 @@ First launch case
 | User click 'Enable' button| User redirected to App settings screen, where he can set permissions for this App  |
 | User gives permission for accessing Photos and returns to the App| App restarted, permissions set, user can upload photos |
 
-No permissions given before case 
+No permissions given before case:
 
  | Action| Expected result |
 | ------ | ------ |
@@ -963,9 +970,9 @@ No permissions given before case
 | User click 'Enable' button| User redirected to App settings screen, where he can set permissions for this App  |
 | User gives permission for accessing Photos and returns to the App| App restarted, permissions set, user can upload photos |
 
-User gave permissions 
+User gave permissions:
 
- | Action| Expected result |
+| Action| Expected result |
 | ------ | ------ |
 | Press 'image' icon | 'Photos' inApp view is opened |
 | User choose some photo/s | Photo/s chosen are highlighted with blue, and are given appropriate number, depending from order in which they were chosen, starting with 1 |
