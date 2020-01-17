@@ -22,9 +22,9 @@
  
     - [As User I can access crop menu for imported file from cloud service](#SPIOS-0208-As-User-I-can-access-crop-menu-for-imported-file-from-cloud-service)
  
-    - [As user I can open 'Text' screen, where I can create my own document](#SPIOS-0209-As-user-I-can-open-'Text'-screen,-where-I-can-create-my-own-document)
+    - [As user I can open 'Text' screen, where I can create my own document](#SPIOS-0209-As-user-I-can-open-Text-screen,-where-I-can-create-my-own-document)
  
-    - [As User I can create text, using 'Text' screen](#SPIOS-0210-As-User-I-can-create-text,-using-'Text'-screen)
+    - [As User I can create text, using 'Text' screen](#SPIOS-0210-As-User-I-can-create-text,-using-Text-screen)
     
  - [Epic 03. Library](#Epic-03-Library)
  
