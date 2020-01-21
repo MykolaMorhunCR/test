@@ -156,7 +156,7 @@
     
     - [As User I can search through text](#SPIWEB-0407-As-User-I-can-search-through-text)
  
- - [# General functionality](#GENERAL-FUNCTIONALITY)
+ - [# General functionality](#GENERAL-FUNCTIONALITY-Web)
  
 
 -----------------------------
@@ -1678,7 +1678,7 @@ Link case
  - Appropriate text is being searched and highlighted
  
  ------------------------------
-# GENERAL FUNCTIONALITY 
+# General functionality. Web
 ------------------------------
 
 # Sign In is obligatory
