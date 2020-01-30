@@ -68,7 +68,7 @@
 
 - [Epic 05. Edit text](#Epic-05-Edit-text)
 
-    - [:star: As User I As User I can Edit text](#SPIOS-0501-I-As-User-I-can-Edit-text)
+    - [:star: As User I can Edit text](#SPIOS-0501-As-User-I-can-Edit-text)
 
 - [Epic 06. Home & Settings](#Epic-06-Home--Settings)
 
