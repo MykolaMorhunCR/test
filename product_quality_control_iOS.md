@@ -1,3 +1,7 @@
+# Table of Contents 
+
+core features are marked with ':star:' sign
+
 - [Epic 01. Onboarding](#epic-01-onboarding)
 
     - [:star: As user I can go through Onboarding to get known with functionality of App](#SPIOS-0101-As-User-I-can-go-through-Onboarding-to-get-known-with-functionality-of-App)
