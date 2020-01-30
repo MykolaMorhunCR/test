@@ -42,7 +42,7 @@
     
  - [ Epic 04. Listening](#Epic-04-Listening)
  
-    - [:star: As User I can Listen to  items I Added to Library before](#SPIOS-0401-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
+    - [:star: As User I can Listen to  items I Added to Library before](#spios-0401-as-user-i-can-listen-to--items-i-added-to-library-before)
  
     - [:star: As User I can Pause and Continue listening via Pause/Play button](#SPIOS-0402-As-User-I-can-Pause-and-Continue-listening-via-PausePlay-button)
  
@@ -607,7 +607,7 @@ Flow №2
 # SPIOS 0402. As user I can Pause and Continue listening via Pause/Play button 
 
 ### Steps:
- - Start [Listening](#SPIOS-0401-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
+ - Start [Listening](#spios-0401-as-user-i-can-listen-to--items-i-added-to-library-before)
  
  | Action| Expected result |
 | ------ | ------ |
@@ -623,7 +623,7 @@ Flow №2
 # SPIOS 0403. As user I can Skip n seconds Forward/Backwards via Pressing Skip buttons
 
 ### Steps:
- - Start [Listening](#SPIOS-0401-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
+ - Start [Listening](#spios-0401-as-user-i-can-listen-to--items-i-added-to-library-before)
  
 | Action| Expected result |
 | ------ | ------ |
@@ -637,7 +637,7 @@ Flow №2
 
 # SPIOS 0404. As user I can change speed of listening
 ### Steps:
- - Start [Listening](#SPIOS-0401-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
+ - Start [Listening](#spios-0401-as-user-i-can-listen-to--items-i-added-to-library-before)
  - Press 'Speed' button
  
 | Action| Expected result |
@@ -655,7 +655,7 @@ Flow №2
 
 # SPIOS 0405. As user I can navigate through text via tapping on word, I would like to start listening from 
 ### Steps:
- - Start [Listening](#SPIOS-0401-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
+ - Start [Listening](#spios-0401-as-user-i-can-listen-to--items-i-added-to-library-before)
  - Tap on any word in text you are listening
  Expected result: Listening continues from appropriate word, appropriate word is highlighted
 
@@ -667,7 +667,7 @@ Flow №2
 
 # SPIOS 0406. As user I can open listening settings 
 ### Steps:
- - Start [Listening](#SPIOS-0401-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
+ - Start [Listening](#spios-0401-as-user-i-can-listen-to--items-i-added-to-library-before)
  - Press '3-dots' icon 
  Expected result: Menu with such options appear : 
   - [Change Voice](#SPIOS-0408-As-User-I-can-change-voice-of-listening) or [Language](#SPIOS-0408.-As-User-I-can-select-Language-to-translate-to)
@@ -686,7 +686,7 @@ Flow №2
 
 # SPIOS 0407. As user I can Change Font Size 
  ### Steps: 
- - Start [Listening](#SPIOS-0401-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
+ - Start [Listening](#spios-0401-as-user-i-can-listen-to--items-i-added-to-library-before)
  - Open [Listening Settings](#SPIOS-0406-As-User-I-can-open-listening-settings)
  - Click on 'Display & Text Size' button
  
@@ -702,7 +702,7 @@ Flow №2
 
 # SPIOS 0408. As user I can change voice of listening
  ### Steps: 
- - Start [Listening](#SPIOS-0401-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
+ - Start [Listening](#spios-0401-as-user-i-can-listen-to--items-i-added-to-library-before)
  - Open [Listening Settings](#SPIOS-0406-As-User-I-can-open-listening-settings)
  - Click on 'Change Voice or Language' button
  
@@ -733,7 +733,7 @@ User is already subscrubed case:
 
 # SPIOS 0409. As user I can select Language to translate to 
  ### Steps: 
- - Start [Listening](#SPIOS-0401-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
+ - Start [Listening](#spios-0401-as-user-i-can-listen-to--items-i-added-to-library-before)
  - Open [Listening Settings](#SPIOS-0406-As-User-I-can-open-listening-settings) OR click 'voice' icon 
  - Click on 'Change Voice or Language' button
  - Tap on name of language on top bar
@@ -749,7 +749,7 @@ User is already subscrubed case:
   
 # SPIOS 0410. As user I can continue listening from same point I stopped before 
   ### Steps: 
- - Start [Listening](#SPIOS-0401-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
+ - Start [Listening](#spios-0401-as-user-i-can-listen-to--items-i-added-to-library-before)
   ### Acceptance Criteria 
 - After ANY actions, except from reinstalling an app and permanently deleting book user can continue listening from same point he stopped before
 
@@ -757,7 +757,7 @@ User is already subscrubed case:
 
 # SPIOS 0411. As user I can Listen to text when App is in Background Mode 
 ### Steps: 
- - Start [Listening](#SPIOS-0401-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
+ - Start [Listening](#spios-0401-as-user-i-can-listen-to--items-i-added-to-library-before)
  - Put App in background mode 
  Expected result: Listening continues 
 
@@ -769,7 +769,7 @@ User is already subscrubed case:
 
 # SPIOS 0412. As user I can use block in Navigation bar, when App is in background mode
   ### Steps: 
- - Start [Listening](#SPIOS-0401-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
+ - Start [Listening](#spios-0401-as-user-i-can-listen-to--items-i-added-to-library-before)
  - Put App in background mode 
  - Open Navbar 
  Block with such items appear : 
@@ -802,7 +802,7 @@ User is already subscrubed case:
 
 # SPIOS 0501. As user I can Edit text
  ### Steps: 
- - Start [Listening](#SPIOS-0401-As-User-I-can-Listen-to-items-I-Added-to-Library-before)
+ - Start [Listening](#spios-0401-as-user-i-can-listen-to--items-i-added-to-library-before)
  - Open [Listening Settings](#SPIOS-0406-As-User-I-can-open-listening-settings)
  - Click on 'Edit Text' button
  
