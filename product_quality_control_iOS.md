@@ -24,6 +24,8 @@
  
     - [:star: As User I can create text, using 'Text' screen](#SPIOS-0210-As-User-I-can-create-text-using-Text-screen)
     
+    - [:star: As User I can crop imported files](#SPIOS-0211-As-User-I-can-crop-imported-files)
+    
  - [Epic 03. Library](#Epic-03-Library)
  
     - [:star: As User I can see list of items I added before so that I am able to listen to all of them](#SPIOS-0301-As-User-I-can-see-list-of-items-I-added-before-so-that-I-am-able-to-listen-to-all-of-them)
