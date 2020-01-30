@@ -8,7 +8,7 @@
 
     - [As User I can go through Onboarding to get known with functionality of App](#SPIOS-0101-As-User-I-can-go-through-Onboarding-to-get-known-with-functionality-of-App)
  
-- [Epic 02. Import & Text creation](#Epic-02-Import-&-Text-reation)
+- [Epic 02. Import & Text creation](#Epic-02-Import--Text-reation)
 
      - [As User I can Import files from Google Drive](#SPIOS-0201-As-User-I-can-Import-files-from-Google-Drive)
  
