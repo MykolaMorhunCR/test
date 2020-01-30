@@ -1,3 +1,5 @@
+# Table of contents
+
 - [:star: As User I can go through Onboarding to get known with functionality of App](#SPA-01-As-User-I-can-go-through-Onboarding-to-get-known-with-functionality-of-App)
 
 - [:star: As User I can sing in/up via email + password](#spa-02-as-user-i-can-sing-inup-via-email--password)
