@@ -1,10 +1,10 @@
 - [Epic 01. Onboarding](#epic-01-onboarding)
 
-    - [:star: As User I can go through Onboarding to get known with functionality of App](#SPIOS-0101-As-User-I-can-go-through-Onboarding-to-get-known-with-functionality-of-App)
+    - [:star: As user I can go through Onboarding to get known with functionality of App](#SPIOS-0101-As-User-I-can-go-through-Onboarding-to-get-known-with-functionality-of-App)
  
 - [Epic 02. Import & Text creation](#Epic-02-Import--Text-creation)
 
-     - [:star: As User I can Import files from Google Drive](#SPIOS-0201-As-User-I-can-Import-files-from-Google-Drive)
+     - [:star: As user I can Import files from Google Drive](#SPIOS-0201-As-User-I-can-Import-files-from-Google-Drive)
  
     - [:star: As user I can import files from Dropbox](#SPIOS-0202-As-user-I-can-import-files-from-Dropbox)
  
@@ -18,87 +18,89 @@
  
     - [:star: As user I can import text from third-party applications (notes / other notes-taking app)](#SPIOS-0207-As-user-I-can-import-text-from-third-party-applications-notes--other-notes-taking-app)
  
-    - [:star: As User I can access crop menu for imported file from cloud service](#SPIOS-0208-As-User-I-can-access-crop-menu-for-imported-file-from-cloud-service)
+    - [:star: As user I can access crop menu for imported file from cloud service](#SPIOS-0208-As-User-I-can-access-crop-menu-for-imported-file-from-cloud-service)
  
     - [:star: As user I can open 'Text' screen, where I can create my own document](#SPIOS-0209-As-user-I-can-open-Text-screen-where-I-can-create-my-own-document)
  
-    - [:star: As User I can create text, using 'Text' screen](#SPIOS-0210-As-User-I-can-create-text-using-Text-screen)
+    - [:star: As user I can create text, using 'Text' screen](#SPIOS-0210-As-User-I-can-create-text-using-Text-screen)
     
-    - [:star: As User I can crop imported files](#SPIOS-0211-As-User-I-can-crop-imported-files)
+    - [:star: As user I can crop imported files](#SPIOS-0211-As-User-I-can-crop-imported-files)
     
  - [Epic 03. Library](#Epic-03-Library)
  
-    - [:star: As User I can see list of items I added before so that I am able to listen to all of them](#SPIOS-0301-As-User-I-can-see-list-of-items-I-added-before-so-that-I-am-able-to-listen-to-all-of-them)
+    - [:star: As user I can see list of items I added before so that I am able to listen to all of them](#SPIOS-0301-As-User-I-can-see-list-of-items-I-added-before-so-that-I-am-able-to-listen-to-all-of-them)
  
-    - [:star: As User I can Create Folder inside my library](#SPIOS-0302-As-User-I-can-Create-Folder-inside-my-library)
+    - [:star: As user I can Create Folder inside my library](#SPIOS-0302-As-User-I-can-Create-Folder-inside-my-library)
  
-    - [:star: As User I can sort items, that can be included inside new folder](#SPIOS-0303-As-User-I-can-sort-items-that-can-be-included-inside-new-folder)
+    - [:star: As user I can sort items, that can be included inside new folder](#SPIOS-0303-As-User-I-can-sort-items-that-can-be-included-inside-new-folder)
  
-    - [:star: As User I can access Items' menu](#SPIOS-0304-As-User-I-can-access-Items-menu)
+    - [:star: As user I can access Items' menu](#SPIOS-0304-As-User-I-can-access-Items-menu)
  
-    - [:star: As User I can Delete Books/Articles/Texts/Folders I added before](#SPIOS-0305-As-User-I-can-Delete-BooksArticlesTextsFolders-I-added-before)
+    - [:star: As user I can Delete Books/Articles/Texts/Folders I added before](#SPIOS-0305-As-User-I-can-Delete-BooksArticlesTextsFolders-I-added-before)
  
-    - [:star: As User I can access Sort & View menu](#SPIOS-0306-As-User-I-can-access-Sort--View-menu)
+    - [:star: As user I can access Sort & View menu](#SPIOS-0306-As-User-I-can-access-Sort--View-menu)
     
  - [ Epic 04. Listening](#Epic-04-Listening)
  
-    - [:star: As User I can Listen to  items I Added to Library before](#spios-0401-as-user-i-can-listen-to--items-i-added-to-library-before)
+    - [:star: As user I can Listen to  items I Added to Library before](#spios-0401-as-user-i-can-listen-to--items-i-added-to-library-before)
  
-    - [:star: As User I can Pause and Continue listening via Pause/Play button](#SPIOS-0402-As-User-I-can-Pause-and-Continue-listening-via-PausePlay-button)
+    - [:star: As user I can Pause and Continue listening via Pause/Play button](#SPIOS-0402-As-User-I-can-Pause-and-Continue-listening-via-PausePlay-button)
  
-    - [:star: As User I can Skip n seconds Forward/Backwards via Pressing Skip buttons](#SPIOS-0403-As-User-I-can-Skip-n-seconds-ForwardBackwards-via-Pressing-Skip-buttons)
+    - [:star: As user I can Skip n seconds Forward/Backwards via Pressing Skip buttons](#SPIOS-0403-As-User-I-can-Skip-n-seconds-ForwardBackwards-via-Pressing-Skip-buttons)
  
-    - [:star: As User I can change speed of listening](#SPIOS-0404-As-User-I-can-change-speed-of-listening)
+    - [:star: As user I can change speed of listening](#SPIOS-0404-As-User-I-can-change-speed-of-listening)
  
-    - [:star: As User I can navigate through text via tapping on word, I would like to start listening from](#SPIOS-0405-As-User-I-can-navigate-through-text-via-tapping-on-word-I-would-like-to-start-listening-from)
+    - [:star: As user I can navigate through text via tapping on word, I would like to start listening from](#SPIOS-0405-As-User-I-can-navigate-through-text-via-tapping-on-word-I-would-like-to-start-listening-from)
  
-    - [:star: As User I can open listening settings settings](#SPIOS-0406-As-User-I-can-open-listening-settings)
+    - [:star: As user I can open listening settings settings](#SPIOS-0406-As-User-I-can-open-listening-settings)
  
-    - [:star: As User I can Change Font Size](#SPIOS-0407-As-User-I-can-Change-Font-Size)
+    - [:star: As user I can Change Font Size](#SPIOS-0407-As-User-I-can-Change-Font-Size)
  
-    - [:star: As User I can change voice of listening](#SPIOS-0408-As-User-I-can-change-voice-of-listening)
+    - [:star: As user I can change voice of listening](#SPIOS-0408-As-User-I-can-change-voice-of-listening)
  
-    - [:star: As User I can select Language to translate to](#SPIOS-0409-As-User-I-can-select-Language-to-translate-to)
+    - [:star: As user I can select Language to translate to](#SPIOS-0409-As-User-I-can-select-Language-to-translate-to)
  
-    - [:star: As User I can continue listening from same point I stopped before](#SPIOS-0410-As-User-I-can-continue-listening-from-same-point-I-stopped-before) 
+    - [:star: As user I can continue listening from same point I stopped before](#SPIOS-0410-As-User-I-can-continue-listening-from-same-point-I-stopped-before) 
 
-    - [:star: As User I can Listen to text when App is in Background Mode](#SPIOS-0411-As-User-I-can-Listen-to-text-when-App-is-in-Background-Mode)
+    - [:star: As user I can Listen to text when App is in Background Mode](#SPIOS-0411-As-User-I-can-Listen-to-text-when-App-is-in-Background-Mode)
 
-    - [:star: As User I can use block in Navigation bar, when App is in background mode](#SPIOS-0412-As-User-I-can-use-block-in-Navigation-bar-when-App-is-in-background-mode)
+    - [:star: As user I can use block in Navigation bar, when App is in background mode](#SPIOS-0412-As-User-I-can-use-block-in-Navigation-bar-when-App-is-in-background-mode)
 
 - [Epic 05. Edit text](#Epic-05-Edit-text)
 
-    - [:star: As User I can Edit text](#SPIOS-0501-As-User-I-can-Edit-text)
+    - [:star: As user I can Edit text](#SPIOS-0501-As-User-I-can-Edit-text)
 
 - [Epic 06. Home & Settings](#Epic-06-Home--Settings)
 
-    - [:star: As User I can continue listening from 'home' screen](#SPIOS-0601-As-User-I-can-continue-listening-from-home-screen)
+    - [:star: As user I can continue listening from 'home' screen](#SPIOS-0601-As-User-I-can-continue-listening-from-home-screen)
 
-    - [:star: As User I can see list of recently added files](#SPIOS-0602-As-User-I-can-see-list-of-recently-added-files)
+    - [:star: As user I can see list of recently added files](#SPIOS-0602-As-User-I-can-see-list-of-recently-added-files)
 
-    - [:star: As User I can access settings screen](#SPIOS-0603-As-User-I-can-access-settings-screen)
+    - [:star: As user I can access settings screen](#SPIOS-0603-As-User-I-can-access-settings-screen)
 
-    - [:star: As User I can Sign In/Up Via Email + Password](#SPIOS-0604-As-User-I-can-Sign-InUp-Via-Email--Password)
+    - [:star: As user I can Sign In/Up Via Email + Password](#SPIOS-0604-As-User-I-can-Sign-InUp-Via-Email--Password)
 
-    - [:star: As User I can Sign In/Up Via Google](#SPIOS-0605-As-User-I-can-Sign-InUp-Via-Google)
+    - [:star: As user I can Sign In/Up Via Google](#SPIOS-0605-As-User-I-can-Sign-InUp-Via-Google)
 
-    - [:star: As User I can set default listening voice](#SPIOS-0606-As-User-I-can-set-default-listening-voice)
+    - [:star: As user I can set default listening voice](#SPIOS-0606-As-User-I-can-set-default-listening-voice)
 
 - [Epic 07. Scan](#Epic-07-Scan)
 
-    - [:star: As User I can take Photo of Text, so that I will be able to listen to it](#SPIOS-0701-As-User-I-can-take-Photo-of-Text-so-that-I-will-be-able-to-listen-to-it)
+    - [:star: As user I can take Photo of Text, so that I will be able to listen to it](#SPIOS-0701-As-User-I-can-take-Photo-of-Text-so-that-I-will-be-able-to-listen-to-it)
 
-    - [:star: As User I can upload image from storage, so that I will be able to listen to it](#SPIOS-0702-As-User-I-can-upload-image-from-storage-so-that-I-will-be-able-to-listen-to-it) 
+    - [:star: As user I can upload image from storage, so that I will be able to listen to it](#SPIOS-0702-As-User-I-can-upload-image-from-storage-so-that-I-will-be-able-to-listen-to-it) 
+    
+    - [As user I can crop photo of text](#spios-0703-as-user-i-can-crop-photo-of-text)
 
 - [Epic 08. Subscriptions](#Epic-08-Subscriptions)
 
     - [General info](#General-info)
 
-    - [:star: As User I can Subscribe, so I will get access to premium functionality](#As-User-I-can-Subscribe-so-I-will-get-access-to-premium-functionality)
+    - [:star: As user I can Subscribe, so I will get access to premium functionality](#As-User-I-can-Subscribe-so-I-will-get-access-to-premium-functionality)
 
-    - [:star: As User I can Change my subscription Plan](#As-User-I-can-Change-my-subscription-Plan)
+    - [:star: As user I can Change my subscription Plan](#As-User-I-can-Change-my-subscription-Plan)
 
-    - [:star: As User i can contact Speechify, if i want > 1000000 HD words per month](#As-User-i-can-contact-Speechify-if-i-want--1000000-HD-words-per-month)
+    - [:star: As user i can contact Speechify, if i want > 1000000 HD words per month](#As-User-i-can-contact-Speechify-if-i-want--1000000-HD-words-per-month)
 
 - [General Functionality](#GENERAL-FUNCTIONALITY)
 
@@ -373,7 +375,7 @@ No accounts added bofore case:
  
  -------------------------------
 
-# SPIOS 0208. As User I can access crop menu for imported file from cloud service
+# SPIOS 0208. As user I can access crop menu for imported file from cloud service
  ### Steps: 
   - Import file from any cloud-service ( For E.G. [Google Drive](#SPIOS-0201-As-User-I-can-Import-files-from-Google-Drive))
  - Press 'Crop File' Button before adding item to library 
@@ -398,7 +400,7 @@ No accounts added bofore case:
  
   -------------------------------
 
-# SPIOS 0210. As User I can create text, using 'Text' screen
+# SPIOS 0210. As user I can create text, using 'Text' screen
   ### Steps: 
  - Open 'Text' Screen 
  
